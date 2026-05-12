@@ -1,37 +1,11 @@
 ![banner](imagenes/Banner_01.png)
 
-Soy **Cloud & Infrastructure Engineer** con experiencia en administración de servidores, arquitectura cloud y automatización.  
-Actualmente estoy **integrando AI Engineering en mi perfil**, enfocándome en pipelines de datos, diseño de datasets para LLMs y la construcción de sistemas AI‑ready en entornos cloud.
+I’m a **Cloud & Infrastructure Engineer** with experience in server administration, cloud architecture, and automation.  
+I’m currently **expanding my profile into AI Engineering**, focusing on data pipelines, dataset design for LLMs, and building AI‑ready systems in cloud environments.
 
-Trabajo con un enfoque modular, documentado y orientado a buenas prácticas, combinando infraestructura, datos y automatización para crear soluciones escalables y profesionales.
+I work with a modular, well‑documented, and best‑practices‑oriented approach, combining infrastructure, data, and automation to create scalable and professional solutions.
 
-Este perfil combina **proyectos profesionales**, **proyectos formativos** y **mini‑herramientas prácticas**, mostrando mi evolución desde la infraestructura tradicional hacia la ingeniería de IA.
-
-<br>
-
-<p align="center">
-  <img src="imagenes/divider_02.png" width="60%" />
-</p>
-
-## 🚀 Proyectos destacados
-
-### 🔹 **Travel AI World — Plataforma de Turismo Inteligente (PontIA)**
-Repositorio: https://github.com/alexdesousa7/travel-ai-world  
-Proyecto Jupiter del máster en IA.  
-Actualmente en desarrollo (work in progress).
-
-**Descripción:**  
-Plataforma modular que combina datos, IA y cloud para crear experiencias turísticas inteligentes.
-
-**Incluye:**  
-- Pipelines de datos  
-- Integración de APIs  
-- Embeddings y vector stores  
-- Arquitectura cloud  
-- Módulos de recomendación y análisis  
-
-**Estado:**  
-En construcción. Documentación y módulos en progreso.
+This profile includes **professional projects**, **academic projects**, and **practical mini‑tools**, showcasing my evolution from traditional infrastructure toward AI engineering.
 
 <br>
 
@@ -39,22 +13,25 @@ En construcción. Documentación y módulos en progreso.
   <img src="imagenes/divider_02.png" width="60%" />
 </p>
 
-### 🔹 **PyTools — Mini‑proyectos y utilidades**
-Repositorio: https://github.com/alexdesousa7/PyAlexTools
+## 🚀 Featured Projects
 
-Conjunto de herramientas y scripts creados para practicar conceptos clave de Python, modularidad y automatización.
+### 🔹 **Travel AI World — Intelligent Tourism Platform (PontIA)**  
+Repository: https://github.com/alexdesousa7/travel-ai-world  
+Jupiter Project of the AI Master’s program.  
+Currently in development (work in progress).
 
-**Descripción:**
-Incluye utilidades pequeñas pero útiles que reflejan **mi evolución técnica**, mi forma de estructurar código y mi enfoque en la creación de herramientas prácticas.
+**Description:**  
+A modular platform that combines data, AI, and cloud to create intelligent tourism experiences.
 
-**Incluye:**
-- Automatización de tareas repetitivas  
-- Limpieza y manipulación de datos  
-- Scripts modulares y reutilizables  
-- Ejercicios de scraping  
-- Utilidades de consola y helpers 
+**Includes:**  
+- Data pipelines  
+- API integrations  
+- Embeddings and vector stores  
+- Cloud architecture  
+- Recommendation and analysis modules  
 
-Son proyectos ligeros pero muestran **constancia, práctica y evolución técnica**.
+**Status:**  
+Under active development. Documentation and modules in progress.
 
 <br>
 
@@ -62,15 +39,39 @@ Son proyectos ligeros pero muestran **constancia, práctica y evolución técnic
   <img src="imagenes/divider_02.png" width="60%" />
 </p>
 
-### 🔹 **Cloud Infra Templates — Infra reproducible**
-Infraestructura modular para proyectos cloud y AI.
+### 🔹 **PyTools — Mini‑projects and Utilities**  
+Repository: https://github.com/alexdesousa7/PyAlexTools
+
+A collection of tools and scripts created to practice key concepts in Python, modularity, and automation.
+
+**Description:**  
+Includes small but useful utilities that reflect **my technical growth**, my approach to structuring code, and my focus on building practical tools.
+
+**Includes:**  
+- Task automation  
+- Data cleaning and manipulation  
+- Modular and reusable scripts  
+- Scraping exercises  
+- Console utilities and helpers  
+
+These are lightweight projects, but they demonstrate **consistency, practice, and technical evolution**.
+
+<br>
+
+<p align="center">
+  <img src="imagenes/divider_02.png" width="60%" />
+</p>
+
+### 🔹 **Cloud Infra Templates — Reproducible Infrastructure**
+
+Modular infrastructure for cloud and AI projects.
 
 **Stack:** Terraform · Azure · GitHub Actions  
-**Qué representa:**  
-Ejemplos reales de cómo fui aprendiendo IaC, modularidad, estados remotos, variables y despliegues reproducibles.
+**What it represents:**  
+Real examples of how I learned IaC, modularity, remote states, variables, and reproducible deployments.
 
-**Impacto:**  
-Base sólida para cualquier proyecto cloud o AI que requiera infraestructura estándar y automatizada.
+**Impact:**  
+A solid foundation for any cloud or AI project requiring standardized and automated infrastructure.
 
 <br>
 
@@ -105,19 +106,19 @@ Base sólida para cualquier proyecto cloud o AI que requiera infraestructura est
   <img src="imagenes/divider_02.png" width="60%" />
 </p>
 
-## ✍️ Blog (ES / EN)
+## ✍️ Blog (EN / SP)
 
-Escribo sobre:
+I write about:
 
-- Cloud & Arquitectura  
-- Infraestructura como código  
-- Pipelines y automatización  
-- IA aplicada y diseño de datasets  
-- Mi transición profesional hacia AI Engineering  
+- Cloud & Architecture  
+- Infrastructure as Code  
+- Pipelines and automation  
+- Applied AI and dataset design  
+- My professional transition toward AI Engineering  
 
-📌 Blog: https://alexdesousa.com  
-📌 Blog (ES): https://alexdesousa.es  
-📌 Disponible en **español** e **inglés**
+📌 **Blog (EN):** https://alexdesousa.com  
+📌 **Blog (SP):** https://alexdesousa.es  
+📌 Available in **English** and **Spanish**
 
 <br>
 
@@ -134,6 +135,6 @@ Escribo sobre:
 <br>
 
 <p align="center">
-  <em><strong><span style="font-size: 20px;">Cloud hoy. AI mañana. Construyendo el puente entre ambos mundos.</span></strong></em>
+  <em><strong><span style="font-size: 22px;">Cloud today. AI tomorrow. Building the bridge between both worlds.</span></strong></em>
 </p>
 
