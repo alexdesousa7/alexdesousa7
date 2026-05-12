@@ -16,7 +16,7 @@ Este perfil combina **proyectos profesionales**, **proyectos formativos** y **mi
 ## 🚀 Proyectos destacados
 
 ### 🔹 **Travel AI World — Plataforma de Turismo Inteligente (PontIA)**
-Repositorio: https://github.com/alexdesousa7/travel-ai-world
+Repositorio: https://github.com/alexdesousa7/travel-ai-world  
 Proyecto Jupiter del máster en IA.  
 Actualmente en desarrollo (work in progress).
 
@@ -116,7 +116,7 @@ Escribo sobre:
 - Mi transición profesional hacia AI Engineering  
 
 📌 Blog: https://alexdesousa.com  
-📌 Blog (ES): https://alexdesousa.es
+📌 Blog (ES): https://alexdesousa.es  
 📌 Disponible en **español** e **inglés**
 
 <br>
@@ -134,5 +134,6 @@ Escribo sobre:
 <br>
 
 <p align="center">
-  <sub>Cloud hoy. AI mañana. Construyendo el puente entre ambos mundos.</sub>
+  <em><strong><span style="font-size: 20px;">Cloud hoy. AI mañana. Construyendo el puente entre ambos mundos.</span></strong></em>
 </p>
+
