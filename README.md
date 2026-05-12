@@ -110,7 +110,7 @@ A solid foundation for any cloud or AI project requiring standardized and automa
   <img src="imagenes/divider_02.png" width="60%" />
 </p>
 
-## ✍️ Blog (EN / SP)
+## ✍️ Blog (EN / ES)
 
 I write about:
 
@@ -121,7 +121,7 @@ I write about:
 - My professional transition toward AI Engineering  
 
 📌 **Blog (EN):** https://alexdesousa.com  
-📌 **Blog (SP):** https://alexdesousa.es  
+📌 **Blog (ES):** https://alexdesousa.es  
 📌 Available in **English** and **Spanish**
 
 <br>
