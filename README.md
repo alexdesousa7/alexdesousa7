@@ -1,4 +1,4 @@
-![banner](imagenes/banner_01.png)
+![banner](imagenes/Banner_01.png)
 
 Soy **Cloud & Infrastructure Engineer** con experiencia en administración de servidores, arquitectura cloud y automatización.  
 Actualmente estoy **integrando AI Engineering en mi perfil**, enfocándome en pipelines de datos, diseño de datasets para LLMs y la construcción de sistemas AI‑ready en entornos cloud.
@@ -115,8 +115,8 @@ Escribo sobre:
 - IA aplicada y diseño de datasets  
 - Mi transición profesional hacia AI Engineering  
 
-📌 **Blog:** https://alexdesousa.com
-📌 **Blog:** https://alexdesousa.es  
+📌 Blog: https://alexdesousa.com  
+📌 Blog (ES): https://alexdesousa.es
 📌 Disponible en **español** e **inglés**
 
 <br>
