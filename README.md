@@ -1,3 +1,7 @@
+<p align="right">
+  <sub><a href="README_ES.md">Leer en español</a></sub>
+</p>
+
 ![banner](imagenes/Banner_01.png)
 
 I’m a **Cloud & Infrastructure Engineer** with experience in server administration, cloud architecture, and automation.  
