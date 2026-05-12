@@ -94,12 +94,12 @@ A solid foundation for any cloud or AI project requiring standardized and automa
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### **AI Engineering (en transición)**
+### **AI Engineering (in transition)**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Embeddings](https://img.shields.io/badge/Embeddings-000000?style=for-the-badge)
 ![VectorDB](https://img.shields.io/badge/VectorDB-4B0082?style=for-the-badge)
 
-### **Data (en transición)**
+### **Data (in transition)**
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![APIs](https://img.shields.io/badge/APIs-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Scraping](https://img.shields.io/badge/Scraping-00A86B?style=for-the-badge)
